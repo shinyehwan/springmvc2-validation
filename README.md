@@ -18,6 +18,8 @@
 - 4. 검증1 - Validation - Validator 분리2
 - 4. 검증1 - Validation - 정리
 
+----
+
 - 5. 검증2 - Bean Validation - Bean Validation - 소개
 - 5. 검증2 - Bean Validation - Bean Validation - 시작
 - 5. 검증2 - Bean Validation - Bean Validation - 프로젝트 준비 V3
